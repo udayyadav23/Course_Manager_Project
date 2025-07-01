@@ -1,0 +1,44 @@
+.home-container {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #f0f4ff, #e5e7eb);
+  padding: 2rem;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.home-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.home-title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #1e3a8a;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
+}
+
+.course-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Center the course cards horizontally */
+  justify-content: center;
+  gap: 1.5rem;
+}
+
+
+.no-course-text {
+  font-size: 1.1rem;
+  color: #6b7280;
+  font-style: italic;
+  padding: 1rem;
+  background-color: #fef3c7;
+  border: 1px dashed #f59e0b;
+  border-radius: 0.75rem;
+  text-align: center;
+  max-width: 500px;
+  margin: 0 auto;
+}
