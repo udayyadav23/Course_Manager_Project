@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> a7c19ee207fafcad9c7a4b1691cf955ff8bb303c
 # 📚 Course Manager
 
 A full-stack Course Management System built with **Spring Boot**, **React.js**, and **MongoDB**. This application enables secure management of courses and their related content — including **Assignments**, **Projects**, **Notes**, and **Extras** — along with support for **image uploads** for each module.
@@ -42,6 +45,10 @@ A full-stack Course Management System built with **Spring Boot**, **React.js**, 
 | Database     | MongoDB                |
 | Security     | Spring Security, JWT   |
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> a7c19ee207fafcad9c7a4b1691cf955ff8bb303c
 ## 🔐 Authentication Flow
 
 1. User logs in with credentials.
@@ -69,7 +76,12 @@ A full-stack Course Management System built with **Spring Boot**, **React.js**, 
 cd backend
 ./mvnw spring-boot:run
 
+<<<<<<< HEAD
 =======
 # Course_Manager_Project
 A full-stack Course Manager using Spring Boot, React, MongoDB with JWT Authentication
 >>>>>>> aa351b1479ef990ab360a05c485da0c38d445bd6
+=======
+
+
+>>>>>>> a7c19ee207fafcad9c7a4b1691cf955ff8bb303c
